@@ -4,6 +4,9 @@
 
 ```bash
 # development
+$ docker-compose up --build
+
+# production mode
 $ docker-compose up -d
 ```
 
